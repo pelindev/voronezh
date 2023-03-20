@@ -1,0 +1,17 @@
+{
+    "name": "nikita/voronezh",
+    "autoload": {
+        "psr-4": {
+            "Nikita\\Voronezh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pelin Nikita",
+            "email": "pelin.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "hflabs/dadata": "^22.3"
+    }
+}
